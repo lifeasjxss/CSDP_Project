@@ -1,0 +1,49 @@
+Actuarial Science | Uses mathematics, data analysis and finance to assess risk and support business decision-making.
+
+Architecture | Focuses on designing buildings and spaces by combining technical knowledge with creative planning.
+
+Biology | Studies living organisms and biological processes through research, observation and laboratory work.
+
+Chemistry | Examines matter, chemical reactions and the behavior of substances in natural and laboratory settings.
+
+Computer Science | Focuses on programming, software development and computing systems to solve technical problems.
+
+Economics | Studies how people, businesses and governments make decisions about resources and markets.
+
+Elementary Education | Prepares students to teach children through classroom instruction, lesson planning and child development practices.
+
+Finance | Examines investments, financial planning and business decision-making in organizations and markets.
+
+Fine Arts | Develops artistic and design skills through studio work, visual analysis and portfolio creation.
+
+Health Education | Promotes community wellness through health communication, education programs and public outreach.
+
+History | Uses research and analysis to examine past events, cultures and societies.
+
+Information Systems | Combines business operations with technology and data management to improve organizational performance.
+
+Interior Design | Focuses on the planning and design of interior spaces while balancing function, aesthetics and client needs.
+
+Marketing | Studies consumer behavior, advertising strategies and market research to support business goals.
+
+Mathematics | Applies mathematical theory and quantitative reasoning to analyze problems and develop solutions.
+
+Multimedia Journalism | Uses reporting, writing and digital media tools to gather and communicate information.
+
+Music | Develops skills in performance, music theory, composition and music production.
+
+Nursing | Provides patient care through clinical practice, healthcare knowledge and teamwork in medical settings.
+
+Nutritional Sciences | Studies the relationship between food, nutrition and human health.
+
+Philosophy | Examines ethics, logic and philosophical ideas through reasoning, discussion and analysis.
+
+Physics | Investigates the laws of nature through mathematics, experimentation and scientific research.
+
+Political Science | Studies government, public policy and political systems at local, national and global levels.
+
+Psychology | Examines human behavior, mental processes and research methods used to understand people.
+
+Screenwriting and Animation | Combines storytelling with animation and media production to create visual content.
+
+Social Work | Supports individuals, families and communities through advocacy, case management and social services.

@@ -1,0 +1,674 @@
+Q1: I would gladly spend a Saturday writing a long essay to support my opinion.
+Actuarial Science: 2
+Architecture: 2
+Biology: 2
+Chemistry: 2
+Computer Science: 2
+Economics: 4
+Elementary Education: 3
+Finance: 2
+Fine Arts: 2
+Health Education: 3
+History: 5
+Information Systems: 2
+Interior Design: 2
+Marketing: 3
+Mathematics: 2
+Multimedia Journalism: 5
+Music: 1
+Nursing: 2
+Nutritional Sciences: 2
+Philosophy: 5
+Physics: 2
+Political Science: 5
+Psychology: 4
+Screenwriting and Animation: 4
+Social Work: 3
+
+Q2: I have stayed awake late at night trying to find out why a program or device failed.
+Actuarial Science: 4
+Architecture: 3
+Biology: 3
+Chemistry: 3
+Computer Science: 5
+Economics: 2
+Elementary Education: 1
+Finance: 1
+Fine Arts: 1
+Health Education: 1
+History: 2
+Information Systems: 5
+Interior Design: 1
+Marketing: 1
+Mathematics: 4
+Multimedia Journalism: 1
+Music: 1
+Nursing: 1
+Nutritional Sciences: 2
+Philosophy: 2
+Physics: 5
+Political Science: 1
+Psychology: 2
+Screenwriting and Animation: 2
+Social Work: 1
+
+Q3: When a person near me is sick, I check on that person several times a day.
+Actuarial Science: 1
+Architecture: 1
+Biology: 2
+Chemistry: 1
+Computer Science: 1
+Economics: 1
+Elementary Education: 4
+Finance: 1
+Fine Arts: 2
+Health Education: 4
+History: 2
+Information Systems: 1
+Interior Design: 2
+Marketing: 2
+Mathematics: 1
+Multimedia Journalism: 2
+Music: 2
+Nursing: 5
+Nutritional Sciences: 4
+Philosophy: 2
+Physics: 1
+Political Science: 2
+Psychology: 4
+Screenwriting and Animation: 2
+Social Work: 5
+
+Q4: I enjoy reading about changes in prices, jobs, and the economy.
+Actuarial Science: 5
+Architecture: 2
+Biology: 1
+Chemistry: 1
+Computer Science: 2
+Economics: 5
+Elementary Education: 2
+Finance: 5
+Fine Arts: 1
+Health Education: 2
+History: 4
+Information Systems: 4
+Interior Design: 2
+Marketing: 4
+Mathematics: 2
+Multimedia Journalism: 3
+Music: 1
+Nursing: 1
+Nutritional Sciences: 1
+Philosophy: 2
+Physics: 1
+Political Science: 4
+Psychology: 2
+Screenwriting and Animation: 1
+Social Work: 3
+
+Q5: I enjoy watching a movie a second time to study how the story is organized.
+Actuarial Science: 1
+Architecture: 3
+Biology: 1
+Chemistry: 1
+Computer Science: 2
+Economics: 1
+Elementary Education: 2
+Finance: 1
+Fine Arts: 4
+Health Education: 1
+History: 3
+Information Systems: 1
+Interior Design: 3
+Marketing: 3
+Mathematics: 1
+Multimedia Journalism: 5
+Music: 3
+Nursing: 1
+Nutritional Sciences: 1
+Philosophy: 3
+Physics: 1
+Political Science: 2
+Psychology: 2
+Screenwriting and Animation: 5
+Social Work: 1
+
+Q6: When a restaurant bill arrives, I calculate each person's share and the tip before anyone asks.
+Actuarial Science: 5
+Architecture: 4
+Biology: 2
+Chemistry: 3
+Computer Science: 4
+Economics: 4
+Elementary Education: 2
+Finance: 5
+Fine Arts: 1
+Health Education: 4
+History: 1
+Information Systems: 2
+Interior Design: 2
+Marketing: 4
+Mathematics: 5
+Multimedia Journalism: 1
+Music: 2
+Nursing: 3
+Nutritional Sciences: 3
+Philosophy: 3
+Physics: 5
+Political Science: 2
+Psychology: 3
+Screenwriting and Animation: 1
+Social Work: 1
+
+Q7: I enjoy presenting the arguments for one side of a debate, even when I disagree with that side.
+Actuarial Science: 1
+Architecture: 2
+Biology: 1
+Chemistry: 1
+Computer Science: 1
+Economics: 3
+Elementary Education: 2
+Finance: 2
+Fine Arts: 2
+Health Education: 2
+History: 3
+Information Systems: 1
+Interior Design: 1
+Marketing: 4
+Mathematics: 1
+Multimedia Journalism: 4
+Music: 1
+Nursing: 1
+Nutritional Sciences: 1
+Philosophy: 5
+Physics: 1
+Political Science: 5
+Psychology: 2
+Screenwriting and Animation: 2
+Social Work: 3
+
+Q8: I read the ingredient list on a food package before I decide to eat the food.
+Actuarial Science: 1
+Architecture: 1
+Biology: 3
+Chemistry: 1
+Computer Science: 1
+Economics: 1
+Elementary Education: 2
+Finance: 1
+Fine Arts: 1
+Health Education: 4
+History: 1
+Information Systems: 1
+Interior Design: 1
+Marketing: 2
+Mathematics: 1
+Multimedia Journalism: 1
+Music: 1
+Nursing: 3
+Nutritional Sciences: 5
+Philosophy: 1
+Physics: 1
+Political Science: 1
+Psychology: 2
+Screenwriting and Animation: 1
+Social Work: 1
+
+Q9: I have stopped during a walk to figure out why a plant, an insect, or the weather behaves the way it does.
+Actuarial Science: 1
+Architecture: 3
+Biology: 5
+Chemistry: 3
+Computer Science: 1
+Economics: 1
+Elementary Education: 2
+Finance: 1
+Fine Arts: 3
+Health Education: 1
+History: 1
+Information Systems: 1
+Interior Design: 1
+Marketing: 1
+Mathematics: 1
+Multimedia Journalism: 2
+Music: 1
+Nursing: 2
+Nutritional Sciences: 3
+Philosophy: 3
+Physics: 5
+Political Science: 1
+Psychology: 2
+Screenwriting and Animation: 2
+Social Work: 1
+
+Q10: I think about past conversations to understand why a person acted a certain way.
+Actuarial Science: 1
+Architecture: 2
+Biology: 1
+Chemistry: 1
+Computer Science: 1
+Economics: 2
+Elementary Education: 4
+Finance: 3
+Fine Arts: 3
+Health Education: 3
+History: 4
+Information Systems: 2
+Interior Design: 4
+Marketing: 4
+Mathematics: 1
+Multimedia Journalism: 4
+Music: 3
+Nursing: 4
+Nutritional Sciences: 2
+Philosophy: 4
+Physics: 1
+Political Science: 4
+Psychology: 5
+Screenwriting and Animation: 4
+Social Work: 5
+
+Q11: I rearrange the furniture in a room to make it look better.
+Actuarial Science: 1
+Architecture: 5
+Biology: 1
+Chemistry: 1
+Computer Science: 1
+Economics: 1
+Elementary Education: 3
+Finance: 1
+Fine Arts: 5
+Health Education: 1
+History: 1
+Information Systems: 1
+Interior Design: 5
+Marketing: 3
+Mathematics: 1
+Multimedia Journalism: 2
+Music: 2
+Nursing: 1
+Nutritional Sciences: 1
+Philosophy: 1
+Physics: 1
+Political Science: 1
+Psychology: 1
+Screenwriting and Animation: 3
+Social Work: 1
+
+Q12: I enjoy inventing my own melodies or rhythms.
+Actuarial Science: 1
+Architecture: 3
+Biology: 1
+Chemistry: 1
+Computer Science: 2
+Economics: 1
+Elementary Education: 3
+Finance: 1
+Fine Arts: 3
+Health Education: 1
+History: 1
+Information Systems: 1
+Interior Design: 2
+Marketing: 2
+Mathematics: 2
+Multimedia Journalism: 2
+Music: 5
+Nursing: 1
+Nutritional Sciences: 1
+Philosophy: 2
+Physics: 2
+Political Science: 1
+Psychology: 1
+Screenwriting and Animation: 2
+Social Work: 1
+
+Q13: When I learn something new, I explain it to the people near me.
+Actuarial Science: 2
+Architecture: 3
+Biology: 3
+Chemistry: 3
+Computer Science: 2
+Economics: 3
+Elementary Education: 5
+Finance: 4
+Fine Arts: 2
+Health Education: 5
+History: 4
+Information Systems: 4
+Interior Design: 5
+Marketing: 4
+Mathematics: 4
+Multimedia Journalism: 4
+Music: 3
+Nursing: 4
+Nutritional Sciences: 5
+Philosophy: 4
+Physics: 2
+Political Science: 4
+Psychology: 4
+Screenwriting and Animation: 4
+Social Work: 4
+
+Q14: When a person makes a claim, I look for evidence to check it.
+Actuarial Science: 5
+Architecture: 3
+Biology: 4
+Chemistry: 5
+Computer Science: 3
+Economics: 5
+Elementary Education: 2
+Finance: 3
+Fine Arts: 2
+Health Education: 3
+History: 5
+Information Systems: 3
+Interior Design: 2
+Marketing: 4
+Mathematics: 5
+Multimedia Journalism: 4
+Music: 1
+Nursing: 3
+Nutritional Sciences: 3
+Philosophy: 5
+Physics: 5
+Political Science: 5
+Psychology: 5
+Screenwriting and Animation: 2
+Social Work: 3
+
+Q15: I would rather solve a problem that affects a whole community than help one person.
+Actuarial Science: 1
+Architecture: 3
+Biology: 2
+Chemistry: 1
+Computer Science: 1
+Economics: 3
+Elementary Education: 3
+Finance: 1
+Fine Arts: 2
+Health Education: 5
+History: 2
+Information Systems: 1
+Interior Design: 2
+Marketing: 1
+Mathematics: 1
+Multimedia Journalism: 3
+Music: 2
+Nursing: 2
+Nutritional Sciences: 3
+Philosophy: 2
+Physics: 1
+Political Science: 5
+Psychology: 2
+Screenwriting and Animation: 1
+Social Work: 5
+
+Q16: I do my best work when I work in a group.
+Actuarial Science: 3
+Architecture: 4
+Biology: 4
+Chemistry: 4
+Computer Science: 2
+Economics: 2
+Elementary Education: 5
+Finance: 4
+Fine Arts: 1
+Health Education: 5
+History: 1
+Information Systems: 4
+Interior Design: 4
+Marketing: 5
+Mathematics: 1
+Multimedia Journalism: 3
+Music: 4
+Nursing: 5
+Nutritional Sciences: 3
+Philosophy: 2
+Physics: 4
+Political Science: 3
+Psychology: 4
+Screenwriting and Animation: 4
+Social Work: 5
+
+Q17: I feel most comfortable when I know what my schedule will be tomorrow.
+Actuarial Science: 5
+Architecture: 3
+Biology: 4
+Chemistry: 4
+Computer Science: 2
+Economics: 4
+Elementary Education: 5
+Finance: 5
+Fine Arts: 1
+Health Education: 3
+History: 3
+Information Systems: 3
+Interior Design: 2
+Marketing: 2
+Mathematics: 4
+Multimedia Journalism: 1
+Music: 4
+Nursing: 4
+Nutritional Sciences: 4
+Philosophy: 3
+Physics: 4
+Political Science: 2
+Psychology: 3
+Screenwriting and Animation: 1
+Social Work: 2
+
+Q18: When other people are afraid or upset, I become calmer and more focused.
+Actuarial Science: 2
+Architecture: 3
+Biology: 2
+Chemistry: 2
+Computer Science: 2
+Economics: 2
+Elementary Education: 4
+Finance: 3
+Fine Arts: 1
+Health Education: 3
+History: 2
+Information Systems: 2
+Interior Design: 2
+Marketing: 3
+Mathematics: 1
+Multimedia Journalism: 4
+Music: 2
+Nursing: 5
+Nutritional Sciences: 3
+Philosophy: 2
+Physics: 1
+Political Science: 3
+Psychology: 4
+Screenwriting and Animation: 2
+Social Work: 5
+
+Q19: I notice spelling mistakes on a sign or menu before I notice anything else.
+Actuarial Science: 5
+Architecture: 5
+Biology: 3
+Chemistry: 5
+Computer Science: 4
+Economics: 4
+Elementary Education: 2
+Finance: 5
+Fine Arts: 2
+Health Education: 2
+History: 4
+Information Systems: 3
+Interior Design: 4
+Marketing: 2
+Mathematics: 5
+Multimedia Journalism: 4
+Music: 3
+Nursing: 5
+Nutritional Sciences: 4
+Philosophy: 4
+Physics: 3
+Political Science: 2
+Psychology: 4
+Screenwriting and Animation: 2
+Social Work: 2
+
+Q20: I would prefer to do my work from a couch at home instead of an office.
+Actuarial Science: 4
+Architecture: 2
+Biology: 1
+Chemistry: 1
+Computer Science: 2
+Economics: 3
+Elementary Education: 1
+Finance: 2
+Fine Arts: 5
+Health Education: 1
+History: 3
+Information Systems: 5
+Interior Design: 3
+Marketing: 3
+Mathematics: 4
+Multimedia Journalism: 3
+Music: 1
+Nursing: 1
+Nutritional Sciences: 1
+Philosophy: 3
+Physics: 1
+Political Science: 3
+Psychology: 2
+Screenwriting and Animation: 3
+Social Work: 1
+
+Q21: I would accept a boring job if it paid enough to buy a house by age 30.
+Actuarial Science: 5
+Architecture: 3
+Biology: 2
+Chemistry: 2
+Computer Science: 4
+Economics: 4
+Elementary Education: 1
+Finance: 5
+Fine Arts: 1
+Health Education: 1
+History: 1
+Information Systems: 4
+Interior Design: 2
+Marketing: 3
+Mathematics: 3
+Multimedia Journalism: 1
+Music: 1
+Nursing: 3
+Nutritional Sciences: 2
+Philosophy: 1
+Physics: 4
+Political Science: 3
+Psychology: 2
+Screenwriting and Animation: 1
+Social Work: 1
+
+Q22: I would attend four more years of school if it allowed me to enter the career I want.
+Actuarial Science: 2
+Architecture: 4
+Biology: 5
+Chemistry: 3
+Computer Science: 1
+Economics: 2
+Elementary Education: 1
+Finance: 1
+Fine Arts: 2
+Health Education: 1
+History: 4
+Information Systems: 1
+Interior Design: 1
+Marketing: 1
+Mathematics: 4
+Multimedia Journalism: 1
+Music: 2
+Nursing: 3
+Nutritional Sciences: 5
+Philosophy: 4
+Physics: 5
+Political Science: 4
+Psychology: 5
+Screenwriting and Animation: 1
+Social Work: 3
+
+Q23: I'd pick a boring job that will always exist over an exciting one that might disappear.
+Actuarial Science: 5
+Architecture: 3
+Biology: 3
+Chemistry: 3
+Computer Science: 3
+Economics: 4
+Elementary Education: 4
+Finance: 4
+Fine Arts: 1
+Health Education: 4
+History: 2
+Information Systems: 3
+Interior Design: 4
+Marketing: 3
+Mathematics: 5
+Multimedia Journalism: 2
+Music: 1
+Nursing: 5
+Nutritional Sciences: 5
+Philosophy: 2
+Physics: 3
+Political Science: 2
+Psychology: 3
+Screenwriting and Animation: 1
+Social Work: 4
+
+Q24: I'm fine spending a semester on required real world training, like clinical hours, student teaching or a co-op.
+Actuarial Science: 4
+Architecture: 4
+Biology: 4
+Chemistry: 2
+Computer Science: 4
+Economics: 2
+Elementary Education: 5
+Finance: 5
+Fine Arts: 3
+Health Education: 5
+History: 3
+Information Systems: 4
+Interior Design: 4
+Marketing: 3
+Mathematics: 3
+Multimedia Journalism: 4
+Music: 3
+Nursing: 5
+Nutritional Sciences: 5
+Philosophy: 1
+Physics: 2
+Political Science: 2
+Psychology: 4
+Screenwriting and Animation: 4
+Social Work: 5
+
+Q25: I would pursue my ideal career even if only a few people in the country are accepted into it.
+Actuarial Science: 3
+Architecture: 3
+Biology: 2
+Chemistry: 2
+Computer Science: 3
+Economics: 2
+Elementary Education: 1
+Finance: 3
+Fine Arts: 5
+Health Education: 1
+History: 2
+Information Systems: 2
+Interior Design: 2
+Marketing: 3
+Mathematics: 2
+Multimedia Journalism: 3
+Music: 5
+Nursing: 4
+Nutritional Sciences: 2
+Philosophy: 2
+Physics: 3
+Political Science: 4
+Psychology: 2
+Screenwriting and Animation: 5
+Social Work: 1
